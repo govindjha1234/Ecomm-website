@@ -1,1 +1,63 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  font-family: sans-serif;
+
+}
+.container{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.common-form{
+text-align: center;
+display: flex;
+margin: auto;
+padding: 40px;
+flex-direction: column;
+width: 300px;
+border: 2px solid blueviolet;
+
+}
+.form-input{
+height: 35px;
+margin-bottom: 20px;
+padding-left: 10px;
+border: 1px solid blueviolet;
+color: blueviolet;
+}
+.form-button{
+  height: 35px;
+  border: 1px solid blueviolet;
+  cursor: pointer;
+  margin: 10px;
+  background: rgb(46, 46, 204);
+  color: white;
+  border-radius: 10px;
+
+}
+.form-button:hover{
+  background: rgba(46, 46, 204, 0.7);
+}
+.p-error{
+  color: red;
+}
+.p-message{
+color: green;
+}
+.carousel-caption{
+  background-color: #00000082;
+  border-radius: 5px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+  background-color: black;
+  border: 5px;
+}
+.invalid-input{
+  color: red;
+  font-size: 12px;
+
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
