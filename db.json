@@ -1,0 +1,583 @@
+{
+  "seller": [
+    {
+      "name": "govind",
+      "email": "govind@seller.com",
+      "password": "govind1234",
+      "id": 3
+    },
+    {
+      "name": "govind",
+      "email": "12@gmail.com",
+      "password": "533",
+      "id": 6
+    },
+    {
+      "name": "xc cnb",
+      "email": "cn df",
+      "password": "dm fb ",
+      "id": 11
+    },
+    {
+      "name": "saurabh mishra",
+      "email": "sourabh1234@gmail.com",
+      "password": "saurabh1234",
+      "id": 53
+    },
+    {
+      "name": "Ramesh gupta ",
+      "email": "ramesh1234@gmail.com",
+      "password": "ramesh1234",
+      "id": 54
+    },
+    {
+      "name": "Vinay kumar",
+      "email": "vinayk1234@gmail.com",
+      "password": "vinay1234",
+      "id": 55
+    }
+  ],
+  "products": [
+    {
+      "name": "JBL C150SI In Ear Headphones",
+      "price": "629",
+      "color": "black",
+      "category": "accessories",
+      "description": "JBL Signature Sound\nno iconLightweight and Comfortable\nno iconOne-button Universal Remote With Mic",
+      "image": "https://in.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dweb8f5849/C150SI-black1-hero-1605x1605px.png?sw=537&sfrm=png",
+      "id": 6
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "1599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "id": 7
+    },
+    {
+      "name": "Galaxy A23",
+      "price": "27000",
+      "color": "black",
+      "category": "mobile",
+      "description": "No Cost EMI starts from ₹ 1999.88/ month.\n50MP Quad Cam with OIS\nPowerful Snapdragon processor\n16.72cm (6.6\") FHD+ 90Hz Smooth Display",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a047fzkgins/gallery/in-galaxy-a04s-a047-sm-a047fzkgins-533977963?$730_584_PNG$",
+      "id": 8
+    },
+    {
+      "name": "The Clean Coder  (English, Undefined, Martin Robert C.)",
+      "price": "425",
+      "color": "black",
+      "category": "book",
+      "description": "\nLanguage: English\nBinding: Undefined\nPublisher: Pearson\nGenre: Computers\nISBN: 9788131786963, 9788131786963",
+      "image": "https://rukminim1.flixcart.com/image/416/416/book/9/6/3/the-clean-coder-a-code-of-conduct-for-professional-programmers-original-imad8zk7zy2tkzdf.jpeg?q=70",
+      "id": 9
+    },
+    {
+      "name": " Slim Fit Jeans",
+      "price": "1769",
+      "color": " Navy",
+      "category": "clothes",
+      "description": "The perfect companion for every occasion, this pair of Navy jeans by Louis Philippe is a must have for you. Made with premium fabric, these pair of jeans provide unmatched comfort and stretch. Team these Slim Fit jeans with a crew neck t-shirt for a smart casual look.",
+      "image": "https://imagescdn.louisphilippe.com/img/app/product/7/777167-8976762.jpg?q=75&auto=format&w=342",
+      "id": 10
+    },
+    {
+      "name": "Redmi Note 12 5G (6GB RAM, 128GB, Matte Black)",
+      "price": "19999",
+      "color": "black",
+      "category": "mobile",
+      "description": "Display: 6.67 inches (16.94 cm), FHD+ Super AMOLED, 120Hz Refresh Rate\nMemory: 6GB RAM, 128GB ROM, Memory Card (Hybrid) upto 1TB\nProcessor: Qualcomm Snapdragon 4 Gen 1, Octa Core, 2.0 Ghz\nCamera: 48 MP + 8 MP + 2 MP Triple Rear & 13 MP Front Camera\nBattery: 5000 mAh\nUSP: Side Fingerprint Sensor",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1673455371/Croma%20Assets/Communication/Mobiles/Images/267289_tkps55.png/mxw_1366,f_auto",
+      "id": 11
+    },
+    {
+      "name": "boAt Airdopes 131",
+      "price": "999",
+      "color": "black",
+      "category": "earphone",
+      "description": "Wireless Earbuds with upto 60 Hours Playback, 13mm Drivers and IWP Technology, 650mah C type Charging Case",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/c2386af9-4349-432f-8ba5-2b6aa06025c8_600x.png?v=1668756103",
+      "id": 12
+    },
+    {
+      "name": "HP 255 G8 Notebook ",
+      "price": "34000",
+      "color": "black",
+      "category": "laptop",
+      "description": "HP G8 255 AMD RYZEN3\n8GB RAM\n512GB NVME SSD\nWINDOWS 11 HOME\n15.6\" Display\nIntegrated AMD Graphics",
+      "image": "https://m.media-amazon.com/images/I/41YamNJ29mL._SY300_SX300_QL70_FMwebp_.jpg",
+      "id": 13
+    },
+    {
+      "name": "Polo Collar Men s Sports Tshirt",
+      "price": "175",
+      "color": "red",
+      "category": "t-shirt",
+      "description": "Care Instructions: Machine Wash\nFit Type: Slim Fit\nTo be worn as lounge wear, leisure wear, sports wear and casual wear\nCombos: FUNKY GUYS offer combos pack in polo Collar and Round neck tshirts, trackpant and boxer shorts, CAPRI 3/4, henley, Fullsleeves tshirts.\n",
+      "image": "https://m.media-amazon.com/images/I/61PzZB8CZPL._UL1440_.jpg",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "text": "akki",
+      "email": "111111",
+      "password": "2222222",
+      "id": 7
+    },
+    {
+      "text": "pratik kumar",
+      "email": "pratik888@gmail.com",
+      "password": "12344556",
+      "id": 8
+    },
+    {
+      "text": "kuhu",
+      "email": "k344",
+      "password": "234435",
+      "id": 9
+    },
+    {
+      "text": "suhil kumar",
+      "email": "su098",
+      "password": "123rt",
+      "id": 14
+    },
+    {
+      "name": "runku",
+      "email": "rakesh123",
+      "password": "097654",
+      "id": 15
+    },
+    {
+      "name": "Sagar Kumar",
+      "email": "sagar1234@gmail.com",
+      "password": "sagar67544",
+      "id": 16
+    },
+    {
+      "name": "chanchal kumari",
+      "email": "chanchal@123gmail.com",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "name": "sobhna kayshap",
+      "email": "sobhna1234@gmail.com",
+      "password": "1234",
+      "id": 18
+    },
+    {
+      "name": "radha jha",
+      "email": "radha@123gmail.com",
+      "password": "radha1234",
+      "id": 19
+    },
+    {
+      "name": "Govind Jha",
+      "email": "govind75640@gmail.com",
+      "password": "gkumar1234",
+      "id": 20
+    }
+  ],
+  "cart": [
+    {
+      "name": "JBL C150SI In Ear Headphones",
+      "price": "₹629.00",
+      "color": "black",
+      "category": "accessories",
+      "description": "JBL Signature Sound\nno iconLightweight and Comfortable\nno iconOne-button Universal Remote With Mic",
+      "image": "https://in.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dweb8f5849/C150SI-black1-hero-1605x1605px.png?sw=537&sfrm=png",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 20,
+      "id": 1
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 20,
+      "id": 2
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 20,
+      "id": 3
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 4
+    },
+    {
+      "name": "Men Navy Dark Slim Fit Jeans",
+      "price": "₹ 1,769.0041% OFF",
+      "color": " Navy",
+      "category": "clothes",
+      "description": "The perfect companion for every occasion, this pair of Navy jeans by Louis Philippe is a must have for you. Made with premium fabric, these pair of jeans provide unmatched comfort and stretch. Team these Slim Fit jeans with a crew neck t-shirt for a smart casual look.",
+      "image": "https://imagescdn.louisphilippe.com/img/app/product/7/777167-8976762.jpg?q=75&auto=format&w=342",
+      "quantity": 1,
+      "productId": 10,
+      "userId": 20,
+      "id": 5
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 6
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 7
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 8
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 9
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 10
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 11
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 12
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 13
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 14
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 15
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 16
+    },
+    {
+      "name": "ColorFit Icon 2",
+      "price": "₹ 1,599",
+      "color": "blue",
+      "category": "watch",
+      "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-1_600x.png?v=1661272676",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 20,
+      "id": 17
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 17,
+      "id": 18
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 3,
+      "productId": 3,
+      "userId": 17,
+      "id": 19
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 23
+    },
+    {
+      "name": "JBL C150SI In Ear Headphones",
+      "price": "₹629.00",
+      "color": "black",
+      "category": "accessories",
+      "description": "JBL Signature Sound\nno iconLightweight and Comfortable\nno iconOne-button Universal Remote With Mic",
+      "image": "https://in.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dweb8f5849/C150SI-black1-hero-1605x1605px.png?sw=537&sfrm=png",
+      "quantity": 1,
+      "productId": 6,
+      "userId": null,
+      "id": 24
+    },
+    {
+      "name": "The Clean Coder  (English, Undefined, Martin Robert C.)",
+      "price": "₹425",
+      "color": "black",
+      "category": "book",
+      "description": "\nLanguage: English\nBinding: Undefined\nPublisher: Pearson\nGenre: Computers\nISBN: 9788131786963, 9788131786963",
+      "image": "https://rukminim1.flixcart.com/image/416/416/book/9/6/3/the-clean-coder-a-code-of-conduct-for-professional-programmers-original-imad8zk7zy2tkzdf.jpeg?q=70",
+      "quantity": 1,
+      "productId": 9,
+      "userId": null,
+      "id": 25
+    },
+    {
+      "name": "The Clean Coder  (English, Undefined, Martin Robert C.)",
+      "price": "₹425",
+      "color": "black",
+      "category": "book",
+      "description": "\nLanguage: English\nBinding: Undefined\nPublisher: Pearson\nGenre: Computers\nISBN: 9788131786963, 9788131786963",
+      "image": "https://rukminim1.flixcart.com/image/416/416/book/9/6/3/the-clean-coder-a-code-of-conduct-for-professional-programmers-original-imad8zk7zy2tkzdf.jpeg?q=70",
+      "quantity": 1,
+      "productId": 9,
+      "userId": null,
+      "id": 26
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 27
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 28
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 29
+    },
+    {
+      "name": "Men Navy Dark Slim Fit Jeans",
+      "price": "₹ 1,769.0041% OFF",
+      "color": " Navy",
+      "category": "clothes",
+      "description": "The perfect companion for every occasion, this pair of Navy jeans by Louis Philippe is a must have for you. Made with premium fabric, these pair of jeans provide unmatched comfort and stretch. Team these Slim Fit jeans with a crew neck t-shirt for a smart casual look.",
+      "image": "https://imagescdn.louisphilippe.com/img/app/product/7/777167-8976762.jpg?q=75&auto=format&w=342",
+      "quantity": 1,
+      "productId": 10,
+      "userId": null,
+      "id": 31
+    },
+    {
+      "name": "The Clean Coder  (English, Undefined, Martin Robert C.)",
+      "price": "₹425",
+      "color": "black",
+      "category": "book",
+      "description": "\nLanguage: English\nBinding: Undefined\nPublisher: Pearson\nGenre: Computers\nISBN: 9788131786963, 9788131786963",
+      "image": "https://rukminim1.flixcart.com/image/416/416/book/9/6/3/the-clean-coder-a-code-of-conduct-for-professional-programmers-original-imad8zk7zy2tkzdf.jpeg?q=70",
+      "quantity": 1,
+      "productId": 9,
+      "userId": 19,
+      "id": 32
+    },
+    {
+      "name": "The Clean Coder  (English, Undefined, Martin Robert C.)",
+      "price": "₹425",
+      "color": "black",
+      "category": "book",
+      "description": "\nLanguage: English\nBinding: Undefined\nPublisher: Pearson\nGenre: Computers\nISBN: 9788131786963, 9788131786963",
+      "image": "https://rukminim1.flixcart.com/image/416/416/book/9/6/3/the-clean-coder-a-code-of-conduct-for-professional-programmers-original-imad8zk7zy2tkzdf.jpeg?q=70",
+      "quantity": 1,
+      "productId": 9,
+      "userId": 19,
+      "id": 33
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 35
+    },
+    {
+      "name": "HP Pavilion Laptop 14-dv2014TU",
+      "price": "₹52,999 (incl. of all taxes)",
+      "color": "grey",
+      "category": "laptop",
+      "description": "AMD Ryzen™ 5-5625U hexa (16 MB L3 cache 6 cores12 threads)\nWindows 11 Home\n14 FHD IPS Brightview 250 nits Narrow border (1920X1080)\nAMD Radeon™ Graphics\n8 GB DDR4-3200 MHz RAM (2 x 4 GB)\n512 GB PCIe® NVMe™ M.2 SSD\nWeighs1.41 Kg\nHD Webcam/ B&O Speakers",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/8/689H4PA-1_T1656563631.png",
+      "quantity": 1,
+      "productId": 4,
+      "userId": 19,
+      "id": 36
+    },
+    {
+      "name": "Blue Denim",
+      "price": "₹799",
+      "color": "Blue",
+      "category": "clothes",
+      "description": "Care Instructions: Machine-wash\nFit Type: Slim Fit\n100% High-grade premium soft Cotton Denim Fabric\nFull-sleeve casual button-down shirt with a left-chest pocket and guaranteed 0% shrinkage post washing\nStylish Slim-fit classic shirt, easy through chest and tapered through waist for a tailored look\nSizes: S-38 Inches | M-40 Inches | L-42 Inches | XL-44 Inches | 2XL-46 Inches | 3XL-50 Inches | 4XL-52 Inches; Please check the size chart before ordering for the perfect fit\nMatch it with a blazer, chino pants, jeans or shorts to round out your look - perfect gift to someone you love!",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81seM0U3LAL._UY741_.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 19,
+      "id": 37
+    },
+    {
+      "name": "Polo Collar Men s Sports Tshirt",
+      "price": "175",
+      "color": "red",
+      "category": "t-shirt",
+      "description": "Care Instructions: Machine Wash\nFit Type: Slim Fit\nTo be worn as lounge wear, leisure wear, sports wear and casual wear\nCombos: FUNKY GUYS offer combos pack in polo Collar and Round neck tshirts, trackpant and boxer shorts, CAPRI 3/4, henley, Fullsleeves tshirts.\n",
+      "image": "https://m.media-amazon.com/images/I/61PzZB8CZPL._UL1440_.jpg",
+      "quantity": 1,
+      "productId": 14,
+      "userId": 19,
+      "id": 38
+    }
+  ]
+}
